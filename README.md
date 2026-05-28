@@ -31,8 +31,6 @@ Analysis complete!
 
 
 ### Output Screen Shorts
-
-```
 ![image alt](https://github.com/GnanaDatta1/Java-Metrics-Analyzer/blob/65bd25dcb36dd2ea67daacd03b6b0e23532b6c6b/Java-Metrics-Analyzer/java-metrics-analyzer/ScreenShorts/Screenshot%202026-05-28%20142751.png)
 
 ### Report Highlights
