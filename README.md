@@ -37,6 +37,8 @@ Analysis complete!
 
 ![image alt](https://github.com/GnanaDatta1/Java-Metrics-Analyzer/blob/547f3a4dcb45ae1d653a8136951ccfdc77359550/Java-Metrics-Analyzer/java-metrics-analyzer/ScreenShorts/Screenshot%202026-05-28%20143958.png)
 
+![image alt](https://github.com/GnanaDatta1/Java-Metrics-Analyzer/blob/76e2d43f6956724c7cb4a3d02bf371d84f436932/Java-Metrics-Analyzer/java-metrics-analyzer/ScreenShorts/Screenshot%202026-05-28%20144010.png)
+
 
 ### Report Highlights
 
